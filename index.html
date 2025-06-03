@@ -120,6 +120,48 @@
                             </div>
                         </div>
                     </fieldset>
+
+                    <fieldset class="guardian">
+                        <legend>Informações da pessoa responsável</legend>
+
+                        <div class="input-wrapper">
+                            <label for="guardian-name">Nome completo</label>
+                            <input
+                                id="guardian-name"
+                                name="guardian-name"
+                                type="text"
+                                placeholder="Digite o nome completo da pessoa responsável"
+                                required>
+                                <small>Principal responsável legal e contato de emergência</small>
+                        </div>
+                        
+                        <div class="input-wrapper">
+                            <label for="guardian-phone">Telefone</label>
+                            <input
+                                id="guardian-phone"
+                                name="guardian-phone"
+                                type="tel"
+                                placeholder="(XX) XXXXX-XXXX"
+                                required>
+                        </div>
+
+                        <div class="input-wrapper">
+                            <label for="guardian-email">E-mail</label>
+                            <input
+                                id="guardian-email"
+                                name="guardian-email"
+                                type="email"
+                                placeholder="Digite o e-mail da pessoa responsável"
+                                required>
+                                <div class="error">
+                                    <img src="assets/icons/alert-circle.svg" alt="ícone de alerta vermelho">
+                                    <span>Insira um e-mail válido.</span>
+                                </div>
+                        </div>
+
+                        <button type="submit" class="submit-button">Enviar</button>
+
+                    </fieldset>
                 </form>
             </div>
         </main>
