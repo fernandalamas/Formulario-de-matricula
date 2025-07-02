@@ -1,26 +1,36 @@
-![image](https://github.com/user-attachments/assets/f7f53188-cc85-4dde-b5c7-737d7f2fe028)
+# 📑 Enrollment Form
 
-# Enrollment Form
+A responsive registration form for a preschool, built with HTML and CSS.
 
-📑 **Description**  
-Enrollment Form is a responsive registration form for a preschool, built with HTML and CSS. The main goal of this project was to practice and improve skills in form design, custom input styling, and responsive layouts.
+## 🖼️ Preview
 
-🛠️ **Technologies Used**
+[GitHub Page](https://fernandalamas.github.io/Formulario-de-matricula/)
+![image](https://github.com/user-attachments/assets/f7f53188-cc85-4dde-b5c7-737d7f2fe028) 
 
-- **HTML5:** Semantic and accessible markup.
-- **CSS3:** Custom styling, including Flexbox and Grid for layout, and advanced selectors for custom radio and checkbox elements.
+## 📋 Description
 
-🎯 **Project Objectives**
+Enrollment Form is a fully responsive and accessible form, designed for a fictional preschool enrollment. This project was created to improve skills in form structure, custom input styling, and layout responsiveness using pure HTML and CSS.
+
+## 🛠️ Technologies Used
+
+- **HTML5**: Semantic and accessible markup.
+- **CSS3**: Custom styling using Flexbox, Grid, and advanced selectors for custom inputs.
+
+## 🎯 Objectives
 
 - Build a clear and user-friendly enrollment form.
-- Apply custom styles to default form elements (inputs, radios, checkboxes).
-- Ensure a responsive and accessible layout.
+- Customize default form elements (inputs, radios, checkboxes).
+- Ensure a responsive and accessible layout across devices.
 
-💡 **Key Learnings**
+## 💡 Key Learnings
 
-- Customizing form controls with CSS.
-- Organizing styles in modular files for maintainability.
-- Handling browser compatibility for advanced CSS selectors.
+- Styling form controls from scratch using pure CSS.
+- Structuring styles into modular and maintainable files.
+- Ensuring browser compatibility with modern CSS features.
 
-👩‍💻 **Author**  
-Developed by Fernanda Lamas, based on Rocketseat challenges.
+## 🙋‍♀️ Author
+
+Developed by **Fernanda Lamas**, based on challenges by [Rocketseat](https://www.rocketseat.com.br).
+
+> 💼 Open to opportunities as a junior full stack developer.  
+> 📫 Contact: fernandasl890@gmail.com
